@@ -1,2 +1,2 @@
-# python-iniciante
-Exercícios básicos de Python
+🐍 Python Iniciante
+Este repositório contém meus estudos e exercícios de lógica de programação em Python.
